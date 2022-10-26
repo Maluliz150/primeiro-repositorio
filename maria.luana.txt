@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <lang "PR-BR">
-    <tatle> Barbearia Alura </tatle>
+    <head>
+    <meta charset="UTF-8">
+    <title> Barbearia Alura </title>
+    <link rel="stylesheet"href="style.css">
+  </head>
+
+  <body>
+  <hesder>
+   <h1>
+    class="titulo principal">Barbearia Alura</h1>
+    
+                
 <html>
  <body>
-<meta charset="UTF-8">
    <h1>Sobre a Barbearia Alura<h1/>
 
     
